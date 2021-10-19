@@ -1697,14 +1697,6 @@
             "index": "pypi",
             "version": "==2.6.2"
         },
-        "streamlit": {
-            "hashes": [
-                "sha256:1cf88c7dc278d70136138bf3ee3e0dd8a185bc5a4375479c1ad871865b02aa12",
-                "sha256:f94f8f588e70471377a7ecf8d994efc045cc3c10c00b74220d90032517294a91"
-            ],
-            "markers": "python_version >= '3.6'",
-            "version": "==1.0.0"
-        },
         "streamlit-agraph": {
             "hashes": [
                 "sha256:bd0f6d224fb86888d6a4edfff3deaaf4c79f38ecdc98a650d063f45c4fa5448b",
